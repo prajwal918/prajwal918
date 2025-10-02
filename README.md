@@ -1,54 +1,98 @@
-Hi there, I'm Prajwal Jogi 👋
-<a href="https://linkedin.com/in/prajwal-jogi-34b82430a" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+# Hi, I'm Prajwal Jogi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-A detail-oriented and motivated Computer Science student with a strong foundation in software development, cybersecurity, and project management. I'm passionate about using my analytical skills and love for technology to solve complex problems and build innovative solutions.
+> A detail-oriented and motivated Computer Science student with a strong foundation in software development, cybersecurity, and project management. Eager to apply my analytical skills and passion for technology to solve complex problems and contribute to innovative projects.
 
-🔭 I’m currently working on enhancing my skills in Python-based system tools and exploring blockchain technology.
-
-🌱 I’m currently learning more about distributed systems and advanced cybersecurity techniques.
-
-👯 I’m looking to collaborate on open-source projects, especially those related to cybersecurity or web development.
-
-💬 Ask me about Python, Cybersecurity, Java, and Software Development.
-
-📫 How to reach me: prajwaljogi918@gmail.com
-
-🛠️ My Tech Stack
-Here are some of the languages and tools I'm proficient in:
-
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://linkedin.com/in/prajwal-jogi-34b82430a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:prajwaljogi918@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
-Key Skills: Data Structures, Object-Oriented Programming (OOP), Cybersecurity, Analytical Skills, Software Development, Project Management
+---
 
-🚀 My Projects
-Here are a few projects I've worked on. Feel free to check them out!
+### 🚀 What I'm Up To
 
-Spyware Demonstration & Keylogger: A comprehensive Python-based system monitoring tool with features like keystroke logging, screenshot capture, audio recording, webcam capture, and email reporting.
+-   🌱 Currently diving deep into **Cybersecurity**, **Cloud Technologies**, and **AI**.
+-   🔭 Actively seeking internship or full-time roles where I can contribute and grow.
+-   👯 Open to collaborating on open-source projects, especially those related to security or automation.
+-   ⚡ Fun fact: I enjoy deconstructing complex problems into simple, manageable parts.
 
-Blockchain File Sharing: A proposed system using Hyperledger Fabric and IPFS for secure, transparent, and distributed file sharing.
+---
 
-SWAGATH TECH SYSTEM Official Website: Built the official website for a leading MEP (Mechanical, Electrical, and Plumbing) contracting company.
+### 💻 Tech Stack & Skills
 
-📜 Licenses & Certifications
-Google Cybersecurity Professional - Google
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages:</strong>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c"/>
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Key Skills & Concepts:</strong>
+      <p>
+        <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="cybersecurity"/>
+        <img src="https://img.shields.io/badge/Data_Structures-DAA520?style=for-the-badge" alt="data structures"/>
+        <img src="https://img.shields.io/badge/OOP-2E8B57?style=for-the-badge" alt="oop"/>
+        <img src="https://img.shields.io/badge/Software_Development-5865F2?style=for-the-badge" alt="software development"/>
+        <img src="https://img.shields.io/badge/Project_Management-4169E1?style=for-the-badge" alt="project management"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-Oracle Cloud AI Foundations Associate - Oracle
+---
 
-Oracle Cloud Data Science Professional - Oracle
+### 📂 My Projects
 
-Software Engineering Job Simulation - JPMorgan Chase & Co. (Forage)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Spyware Demonstration & Keylogger</h3>
+      <p>A comprehensive system monitoring tool built with <strong>Python</strong>. Features include keystroke logging, screenshot capture, audio recording, system info gathering, webcam capture, and email reporting.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Blockchain File Sharing</h3>
+      <p>A secure, transparent, and distributed file-sharing system designed using <strong>Hyperledger Fabric</strong> and <strong>IPFS</strong>. It ensures file confidentiality, integrity, and availability.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">SWAGATH TECH SYSTEM Official Website</h3>
+      <p>Developed the official website for a leading MEP (Mechanical, Electrical, and Plumbing) solutions company using <strong>HTML/CSS</strong> and <strong>JavaScript</strong>.</p>
+    </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr>
+</table>
 
-📊 My GitHub Stats
+---
+
+### 📜 Licenses & Certifications
+
+-   **Google Cybersecurity Professional**
+-   **Oracle Cloud Certified Data Science Professional**
+-   **Oracle Cloud Certified AI Foundations Associate**
+-   **JPMorgan Chase & Co. Software Engineering Job Simulation**
+
+---
+
+### 📊 My GitHub Stats & Activity
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prajwal918&show_icons=true&theme=radical" alt="prajwal918's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal918&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal918&show_icons=true&theme=tokyonight&rank_icon=github" alt="Prajwal's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal918&theme=tokyonight" alt="Prajwal's GitHub Streak" width="49%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal918&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
