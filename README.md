@@ -1,6 +1,6 @@
 # Hi, I'm Prajwal Jogi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-> A detail-oriented and motivated Computer Science student with a strong foundation in software development, cybersecurity, and project management. Eager to apply my analytical skills and passion for technology to solve complex problems and contribute to innovative projects.
+>account hacked ,「プラジュワル・ジョギのアカウントは私がハッキングしました。笑」 .
 
 <p align="center">
   <a href="https://linkedin.com/in/prajwal-jogi-34b82430a" target="_blank">
@@ -14,12 +14,7 @@
 ---
 
 ### 🚀 What I'm Up To
-
--   🌱 Currently diving deep into **Cybersecurity**, **Cloud Technologies**, and **AI**.
--   🔭 Actively seeking internship or full-time roles where I can contribute and grow.
--   👯 Open to collaborating on open-source projects, especially those related to security or automation.
--   ⚡ Fun fact: I enjoy deconstructing complex problems into simple, manageable parts.
-
+「プラジュワル・ジョギのアカウントは私がハッキングしました。笑」
 ---
 
 ### 💻 Tech Stack & Skills
