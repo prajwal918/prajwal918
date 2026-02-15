@@ -1,6 +1,6 @@
 # Hi, I'm Prajwal Jogi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
->account hacked ,「プラジュワル・ジョギのアカウントは私がハッキングしました。笑」 .
+>account hacked ,「7.57 CGPA — Not here to take your job」 .
 
 <p align="center">
   <a href="https://linkedin.com/in/prajwal-jogi-34b82430a" target="_blank">
