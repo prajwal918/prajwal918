@@ -1,10 +1,15 @@
 # Hi, I'm Prajwal Jogi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
->account hacked ,「7.57 CGPA — Not here to take your job」 .
+> account hacked ,「7.57 CGPA — Not here to take your job」.
+> 
+> **Instagram:** [@iblamejogi999](https://instagram.com/iblamejogi999) 🚀
 
 <p align="center">
   <a href="https://linkedin.com/in/prajwal-jogi-34b82430a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/iblamejogi999" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:prajwaljogi918@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -15,6 +20,7 @@
 
 ### 🚀 What I'm Up To
 「プラジュワル・ジョギのアカウントは私がハッキングしました。笑」
+
 ---
 
 ### 💻 Tech Stack & Skills
@@ -76,10 +82,10 @@
 
 ### 📜 Licenses & Certifications
 
--   **Google Cybersecurity Professional**
--   **Oracle Cloud Certified Data Science Professional**
--   **Oracle Cloud Certified AI Foundations Associate**
--   **JPMorgan Chase & Co. Software Engineering Job Simulation**
+- **Google Cybersecurity Professional**
+- **Oracle Cloud Certified Data Science Professional**
+- **Oracle Cloud Certified AI Foundations Associate**
+- **JPMorgan Chase & Co. Software Engineering Job Simulation**
 
 ---
 
