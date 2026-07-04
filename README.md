@@ -1,7 +1,5 @@
 # Hi, I'm Prajwal Jogi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-> account hacked ,「
-> 
 > **Instagram:** [@iblamejogi999](https://instagram.com/iblamejogi999) 🚀
 
 <p align="center">
@@ -19,7 +17,7 @@
 ---
 
 ### 🚀 What I'm Up To
-「プラジュワル・ジョギのアカウントは私がハッキングしました。笑」
+Currently focusing on advanced algorithmic trading systems and full-stack development. Always learning and building new things!
 
 ---
 
