@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 What I'm Up To
-Currently focusing on advanced algorithmic trading systems and full-stack development. Always learning and building new things!
+Aspiring Software Developer passionate about AI and exploring full-stack development. Always learning, experimenting with AI, and building new things!
 
 ---
 
