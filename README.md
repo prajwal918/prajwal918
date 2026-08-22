@@ -1,6 +1,6 @@
 # Hi, I'm Prajwal Jogi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-
+https://resource-hub-nu-seven.vercel.app
 
 <p align="center">
   <a href="https://linkedin.com/in/prajwal-jogi-34b82430a" target="_blank">
