@@ -2,8 +2,9 @@
   <img src="banner.svg" alt="Animated Sweet Banner" width="100%" />
 </div>
 
-<h1 align="center">Hi there, I'm Prajwal Jogi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Aspiring Software Developer & AI Enthusiast 🚀</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=600&height=50&lines=Hi+there,+I'm+Prajwal+Jogi!+👋;Aspiring+Software+Developer;AI+&+Full-Stack+Enthusiast+🚀" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   <a href="https://linkedin.com/in/prajwal-jogi-34b82430a" target="_blank">
@@ -13,7 +14,16 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://resource-hub-nu-seven.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Resource_Hub-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Resource Hub"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prajwal918&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -53,7 +63,7 @@
 <br>
 
 <div align="center">
-  <h2>🏆 Certifications</h2>
+  <h2>🏅 Certifications</h2>
   <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-Cloud_Data_Science_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-Cloud_AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -68,4 +78,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal918&theme=tokyonight&hide_border=true&background=0D1117" alt="Prajwal's GitHub Streak" width="48%" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal918&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🐍 Contribution Graph Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
