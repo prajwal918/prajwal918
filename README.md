@@ -2,99 +2,93 @@
   <img src="banner.svg" alt="Animated Sweet Banner" width="100%" />
 </div>
 
-# Hi, I'm Prajwal Jogi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">Hi there, I'm Prajwal Jogi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Aspiring Software Developer & AI Enthusiast 🚀</h3>
 
-https://resource-hub-nu-seven.vercel.app
-
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/prajwal-jogi-34b82430a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
- 
   <a href="mailto:prajwaljogi918@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://resource-hub-nu-seven.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<br>
+
+<table align="center" style="border: none;">
+<tr>
+<td width="50%" align="center" style="border: none;">
+<h2>💡 About Me</h2>
+<p align="left">
+🔭 I’m currently exploring <b>Full-Stack Development & AI</b>.<br>
+🌱 I’m constantly learning and building new things.<br>
+💼 Actively looking for opportunities to grow and innovate.<br>
+⚡ Fun fact: I love experimenting with AI algorithms.<br>
 </p>
+</td>
+<td width="50%" align="center" style="border: none;">
+<h2>🛠️ Tech Stack</h2>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,r,mysql,html,css&theme=dark&perline=4" />
+</a>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-### 🚀 What I'm Up To
-Aspiring Software Developer passionate about AI and exploring full-stack development. Always learning, experimenting with AI, and building new things!
+<h2 align="center">🚀 Featured Projects</h2>
 
----
+<div align="center">
+  <a href="https://github.com/prajwal918/keylogger-monitor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwal918&repo=keylogger-monitor&theme=tokyonight&show_icons=true" alt="Keylogger Monitor" />
+  </a>
+  <a href="https://github.com/prajwal918/resource-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwal918&repo=resource-hub&theme=tokyonight&show_icons=true" alt="Resource Hub" />
+  </a>
+</div>
 
-### 💻 Tech Stack & Skills
+<br>
 
-<table>
+<table align="center">
   <tr>
-    <td valign="top" width="50%">
-      <strong>Languages:</strong>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c"/>
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-      </p>
+    <td align="center" width="50%">
+      <h3>🔐 Blockchain File Sharing</h3>
+      <p>Secure, transparent distributed file-sharing designed using <b>Hyperledger Fabric</b> and <b>IPFS</b>.</p>
     </td>
-    <td valign="top" width="50%">
-      <strong>Key Skills & Concepts:</strong>
-      <p>
-        <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="cybersecurity"/>
-        <img src="https://img.shields.io/badge/Data_Structures-DAA520?style=for-the-badge" alt="data structures"/>
-        <img src="https://img.shields.io/badge/OOP-2E8B57?style=for-the-badge" alt="oop"/>
-        <img src="https://img.shields.io/badge/Software_Development-5865F2?style=for-the-badge" alt="software development"/>
-        <img src="https://img.shields.io/badge/Project_Management-4169E1?style=for-the-badge" alt="project management"/>
-      </p>
+    <td align="center" width="50%">
+      <h3>🏢 SWAGATH TECH SYSTEM</h3>
+      <p>Official website for a leading MEP solutions company built with modern <b>HTML/CSS</b> and <b>JS</b>.</p>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-### 📂 My Projects
+<h2 align="center">🏆 Certifications</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Spyware Demonstration & Keylogger</h3>
-      <p>A comprehensive system monitoring tool built with <strong>Python</strong>. Features include keystroke logging, screenshot capture, audio recording, system info gathering, webcam capture, and email reporting.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Blockchain File Sharing</h3>
-      <p>A secure, transparent, and distributed file-sharing system designed using <strong>Hyperledger Fabric</strong> and <strong>IPFS</strong>. It ensures file confidentiality, integrity, and availability.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">SWAGATH TECH SYSTEM Official Website</h3>
-      <p>Developed the official website for a leading MEP (Mechanical, Electrical, and Plumbing) solutions company using <strong>HTML/CSS</strong> and <strong>JavaScript</strong>.</p>
-    </td>
-    <td width="50%" valign="top">
-      </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-Cloud_Data_Science_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-Cloud_AI_Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPMorgan_Chase-Software_Engineering_Simulation-117ACA?style=flat-square&logo=jpmorganchase&logoColor=white" />
+</div>
 
----
+<br>
 
-### 📜 Licenses & Certifications
+<h2 align="center">📈 GitHub Analytics</h2>
 
-- **Google Cybersecurity Professional**
-- **Oracle Cloud Certified Data Science Professional**
-- **Oracle Cloud Certified AI Foundations Associate**
-- **JPMorgan Chase & Co. Software Engineering Job Simulation**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal918&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117" alt="Prajwal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal918&theme=tokyonight&hide_border=true&background=0D1117" alt="Prajwal's GitHub Streak" width="48%" />
+</div>
 
----
+<br>
 
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwal918&show_icons=true&theme=tokyonight&rank_icon=github" alt="Prajwal's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal918&theme=tokyonight" alt="Prajwal's GitHub Streak" width="49%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal918&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal918&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
