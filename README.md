@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&random=false&width=800&height=50&lines=IF+YOU'RE+READING+THIS+I'M+SQUASHING+BUGS;IF+YOU'RE+READING+THIS+I'M+LISTENING+TO+GIRLS+WANT+GIRLS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&weight=600&size=20&pause=1000&color=A8C0D8&center=true&vCenter=true&random=false&width=800&height=50&lines=IF+YOU'RE+READING+THIS+I'M+SQUASHING+BUGS;IF+YOU'RE+READING+THIS+I'M+LISTENING+TO+GIRLS+WANT+GIRLS" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -52,9 +52,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg?v=2">
-    <img alt="The Embassy Grid" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/embassy-grid.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/embassy-grid.svg?v=2">
+    <img alt="The Embassy Grid" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/embassy-grid.svg?v=2">
   </picture>
 </div>
 
@@ -83,11 +83,12 @@
 <div align="center">
   <h2>🐍 Contribution Graph Snake</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake.svg?v=2">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/github-contribution-grid-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/github-contribution-grid-snake.svg?v=2">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/github-contribution-grid-snake.svg?v=2">
   </picture>
 </div>
+
 
 
 
