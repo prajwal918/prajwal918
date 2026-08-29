@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Animated Sweet Banner" width="100%" />
+  <img src="banner.svg?v=2" alt="Animated Sweet Banner" width="100%" />
 </div>
 
 <h1 align="center">
@@ -52,9 +52,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg">
-    <img alt="The Embassy Grid" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg?v=2">
+    <img alt="The Embassy Grid" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg?v=2">
   </picture>
 </div>
 
@@ -83,10 +83,11 @@
 <div align="center">
   <h2>🐍 Contribution Graph Snake</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake.svg?v=2">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake.svg?v=2">
   </picture>
 </div>
+
 
 
