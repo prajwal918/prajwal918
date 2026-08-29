@@ -51,13 +51,11 @@
 <br>
 
 <div align="center">
-  <h2>🚀 Featured Projects</h2>
-  <a href="https://github.com/prajwal918/keylogger-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwal918&repo=keylogger-monitor&theme=tokyonight&show_icons=true" alt="Keylogger Monitor" />
-  </a>
-  <a href="https://github.com/prajwal918/resource-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwal918&repo=resource-hub&theme=tokyonight&show_icons=true" alt="Resource Hub" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg">
+    <img alt="The Embassy Grid" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/embassy-grid.svg">
+  </picture>
 </div>
 
 <br>
@@ -90,4 +88,5 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 
