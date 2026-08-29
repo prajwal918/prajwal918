@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&weight=600&size=20&pause=1000&color=A8C0D8&center=true&vCenter=true&random=false&width=800&height=50&lines=IF+YOU'RE+READING+THIS+I'M+SQUASHING+BUGS;IF+YOU'RE+READING+THIS+I'M+LISTENING+TO+GIRLS+WANT+GIRLS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&weight=600&size=20&pause=1000&color=A8C0D8&background=00000000&center=true&vCenter=true&random=false&width=800&height=50&lines=IF+YOU'RE+READING+THIS+I'M+SQUASHING+BUGS;IF+YOU'RE+READING+THIS+I'M+LISTENING+TO+GIRLS+WANT+GIRLS" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -88,6 +88,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/github-contribution-grid-snake.svg?v=2">
   </picture>
 </div>
+
 
 
 
