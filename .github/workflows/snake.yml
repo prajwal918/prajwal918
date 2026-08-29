@@ -12,14 +12,27 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
+      
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#A8C0D8&color_dots=#d3d3d3,#a9a9a9,#808080,#696969,#2f4f4f
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#A8C0D8&color_dots=#2d333b,#404040,#606060,#808080,#a0a0a0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: pip install Pillow
+        
+      - name: Run cityscape overlay script
+        run: python overlay_cityscape.py
+        
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
