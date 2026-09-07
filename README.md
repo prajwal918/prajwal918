@@ -2,15 +2,15 @@
   <img src="banner.svg?v=2" alt="Animated Sweet Banner" width="100%" />
 </div>
 
- <div align="center">
-
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rock+
-  Salt&weight=600&size=20&pause=1000&color=A8C0D8&center=true&vCenter=
-  true&width=800&height=50&lines=IF+YOURE+READING+THIS+IM+SQUASHING+
-  BUGS;IF+YOURE+READING+THIS+IM+SHIPPING+TO+PRODUCTION)](https://git.
-  io/typing-svg)
-
-    </div>
+ <h1 align="center">
+    <img
+  src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&weight=60
+  &size=20&pause=1000&color=A8C0D8&background=00000000&center=true&vCen
+  er=true&random=false&width=800&height=50&lines=IF+YOU'RE+READING+THIS
+  I'M+SQUASHING+BUGS;IF+YOU'RE+READING+THIS+I'M+LISTENING+TO+GIRLS+WANT
+  GIRLS"
+  alt="Typing SVG" />
+  </h1>
 <div align="center">
   <a href="https://linkedin.com/in/prajwal-jogi-34b82430a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
