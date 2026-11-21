@@ -58,9 +58,26 @@
 ## 🛠️ Core Technical Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,r,js,html,css,tailwind,mysql,redis,docker,linux,bash,git,github,postman&theme=tokyonight&perline=9" alt="Core Stack" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,cpp,c,python,r,js,html,css,tailwind,mysql,redis,docker,linux,bash,git,github,postman&theme=dark&perline=9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,cpp,c,python,r,js,html,css,tailwind,mysql,redis,docker,linux,bash,git,github,postman&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,r,js,html,css,tailwind,mysql,redis,docker,linux,bash,git,github,postman&theme=dark&perline=9" alt="Core Stack" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++20" />
+  <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R_4.4-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/UNIX_/_POSIX-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="UNIX / POSIX" />
+  <img src="https://img.shields.io/badge/MySQL_8.4-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MATLAB_Simulink-E16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </div>
 
 ---
