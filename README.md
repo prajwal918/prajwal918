@@ -1,95 +1,130 @@
 <div align="center">
-  <img src="banner.svg?v=2" alt="Animated Sweet Banner" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+    <img alt="Prajwal Jogi — Systems & Full-Stack Engineering" src="./assets/banner-dark.svg" width="100%" />
+  </picture>
 </div>
 
- <h1 align="center">
-    <img
-  src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&weight=60
-  &size=20&pause=1000&color=A8C0D8&background=00000000&center=true&vCen
-  er=true&random=false&width=800&height=50&lines=IF+YOU'RE+READING+THIS
-  I'M+SQUASHING+BUGS;IF+YOU'RE+READING+THIS+I'M+LISTENING+TO+GIRLS+WANT
-  GIRLS"
-  alt="Typing SVG" />
-  </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=750&lines=Building+fault-tolerant+microservices+%26+low-level+Linux+systems;Real-time+Web+Audio+DSP+meets+90s+film+typography;Exploring+distributed+consensus+%26+POSIX+kernel+networking" alt="Typing SVG" />
+  </a>
+</h1>
+
 <div align="center">
   <a href="https://linkedin.com/in/prajwal-jogi-34b82430a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:prajwaljogi918@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://resource-hub-nu-seven.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Resource_Hub-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Resource Hub"/>
+    <img src="https://img.shields.io/badge/Resource_Hub-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Resource Hub" />
+  </a>
+  <a href="https://leetcode.com/u/prajwal918/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/prajwal918" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </div>
 
-<br>
+<br />
 
+### Systems-minded B.Tech CSE engineer at NMAMIT building fault-tolerant backend microservices, low-level Linux networking utilities, and interactive audio/cinema web software.
 
+* 🔭 **Currently engineering:** [`ovo-visualizer`](https://github.com/prajwal918/ovo-visualizer) (real-time Web Audio FFT + Spotify PKCE) & [`pulseledger-microservices`](https://github.com/prajwal918/pulseledger-microservices) (idempotent Java 21 / Spring Boot ledger).
+* 🌱 **Deepening mastery in:** POSIX kernel networking (`AF_PACKET`, `eBPF`), distributed consensus, and statistical NLP in R.
+* 💬 **Ask me about:** Spring Data JPA / Hibernate tuning, Web Audio DSP, Linux `termios` TUIs, and TCP/IP internals.
+* ⚡ **Outside the terminal:** Dissecting 808 low-end mixes from OVO Sound and re-watching David Fincher & Quentin Tarantino filmography.
+
+---
+
+## 🏛️ Flagship Engineering Showcase
+
+| Repository | Engineering Focus & Problem Solved | Core Stack | Architecture |
+| :--- | :--- | :--- | :--- |
+| **[`ovo-visualizer`](https://github.com/prajwal918/ovo-visualizer)** | Zero-dependency 60 fps Web Audio FFT visualizer (60–150 Hz 808 sub-bass detection), Spotify PKCE OAuth, and LRCLIB synced lyrics | Vanilla ES6+, Web Audio API, Canvas 2D | Client DSP + Edge Auth |
+| **[`durden-cinema`](https://github.com/prajwal918/durden-cinema)** | A24/Criterion Brad Pitt filmography explorer with pure-CSS chromatic glitch shaders and OWASP-hardened TMDB serverless proxy | HTML5, Tailwind CSS v4, Serverless Proxy, TMDB v3 | Zero-Leak Edge Proxy |
+| **[`pulseledger-microservices`](https://github.com/prajwal918/pulseledger-microservices)** | Idempotent double-entry settlement engine with optimistic locking (`@Version`), Redis rate limits, and transactional outbox | Java 21, Spring Boot 3.5, Hibernate, MySQL 8.4, Docker | Event-Driven Microservice |
+| **[`packetscope-ux`](https://github.com/prajwal918/packetscope-ux)** | Linux `AF_PACKET` raw-socket TCP/IP sniffer detecting SYN floods and retransmission spikes inside a 60 Hz ANSI TUI | C++20, POSIX Sockets, `termios`, Linux Networking | Systems / Kernel-Adjacent |
+| **[`drake-lyric-nlp`](https://github.com/prajwal918/drake-lyric-nlp)** | Reproducible R hypothesis test quantifying emotional & lexical shifts across Drake's 2009–2026 discography via Bing/AFINN/NRC | R, Tidyverse, tidytext, ggplot2, svglite, LRCLIB | Statistical NLP Pipeline |
+| **[`project-mayhem-cli`](https://github.com/prajwal918/project-mayhem-cli)** | 90s green-phosphor CRT terminal simulator streaming real Linux `/proc` kernel telemetry as soap-factory diagnostics | C++20, POSIX `termios`/`ioctl`, Bash, ANSI Truecolor | Systems / POSIX TUI |
+| **[`algometrix-r`](https://github.com/prajwal918/algometrix-r)** | Interactive R Shiny + Tidyverse empirical complexity explorer comparing $O(n \log n)$ vs $O(n^2)$ cache-cliff inflection points | R 4.4, Shiny, Tidyverse, ggplot2, svglite | Empirical Algorithmics |
+
+---
+
+## 🛠️ Core Technical Stack
 
 <div align="center">
-  <h2>💡 About Me</h2>
-  <p>
-    🔭 I’m currently exploring <b>Full-Stack Development & AI</b>.<br>
-    🌱 I’m constantly learning and building new things.<br>
-    💼 Actively looking for opportunities to grow and innovate.<br>
-    ⚡ Fun fact: I love experimenting with AI algorithms.<br>
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,c,r,mysql,html,css&theme=dark&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,r,js,html,css,tailwind,mysql,redis,docker,linux,bash,git,github,postman&theme=tokyonight&perline=9" alt="Core Stack" />
   </a>
 </div>
 
-<br>
+---
 
+## ⚡ Live Engineering Telemetry (100% Action-Generated)
+
+### 🧩 Daily LeetCode, Codeforces & CS Systems Digest
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/embassy-grid.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/embassy-grid.svg?v=2">
-    <img alt="The Embassy Grid" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/embassy-grid.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/dsa-digest-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/dsa-digest-light.svg" />
+    <img alt="Daily LeetCode & Codeforces Digest" src="./assets/generated/dsa-digest-dark.svg" width="100%" />
   </picture>
 </div>
 
-<br>
+<br />
 
+### 📈 Verified GitHub Statistics & Language Breakdown
 <div align="center">
-  <h2>🏅 Certifications</h2>
-  <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Cloud_Data_Science_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Cloud_AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPMorgan_Chase-Software_Engineering_Simulation-117ACA?style=for-the-badge&logo=jpmorganchase&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <h2>📈 GitHub Analytics</h2>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prajwal918&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117" alt="Prajwal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal918&theme=tokyonight&hide_border=true&background=0D1117" alt="Prajwal's GitHub Streak" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prajwal918&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <h2>🐍 Contribution Graph Snake</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/github-contribution-grid-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/github-contribution-grid-snake.svg?v=2">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/github-contribution-grid-snake.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/stats-light.svg" />
+    <img alt="Prajwal's GitHub Stats" src="./assets/generated/stats-dark.svg" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/langs-light.svg" />
+    <img alt="Top Languages" src="./assets/generated/langs-dark.svg" width="49%" />
   </picture>
 </div>
 
+<br />
 
+### 🏔️ 3D Isometric Contribution Terrain
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+    <img alt="3D Isometric Contribution Terrain" src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+  </picture>
+</div>
 
+<br />
 
+### 🐍 TokyoNight Platane Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal918/prajwal918/output/github-snake-light.svg" />
+    <img alt="TokyoNight Contribution Snake" src="https://raw.githubusercontent.com/prajwal918/prajwal918/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
+<br />
 
+<details>
+  <summary><b>⏱️ Weekly IDE Telemetry (WakaTime Verified Code-Time)</b></summary>
+  <br />
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
 
+---
+
+<div align="center">
+  <sub>Engineered with precision for NMAMIT CSE placements &amp; distributed systems roles. Zero vanity metrics, 100% verifiable code.</sub>
+</div>

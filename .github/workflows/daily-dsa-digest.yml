@@ -1,0 +1,33 @@
+# .github/workflows/daily-dsa-digest.yml
+name: Daily DSA & CS Tip Digest
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # 06:30 IST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Dark & Light DSA + CS Tip SVGs
+        env:
+          LEETCODE_USER: "prajwal918"
+          CODEFORCES_USER: "prajwal918"
+        run: python scripts/update_dsa_card.py
+
+      - name: Commit updated digest SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated/dsa-digest-*.svg
+          git diff --staged --quiet || (git commit -m "chore(dsa): refresh daily LeetCode/Codeforces digest" && git push)

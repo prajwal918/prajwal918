@@ -1,0 +1,29 @@
+# .github/workflows/spotify-vinilo.yml
+name: Update Spotify Vinyl Card
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  spotify-card:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate light and dark Spotify vinyl SVGs
+        uses: icortesb/vinilo@v1
+        with:
+          client-id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          client-secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refresh-token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          count: 4
+          theme: both
+          filename: vinilo
+          publish-to: vinilo

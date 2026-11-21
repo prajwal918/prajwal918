@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" role="img" aria-label="Prajwal Jogi's GitHub Stats">
+  <rect width="495" height="195" rx="8" fill="#1a1b26"/>
+  <text x="35" y="38" fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700">Prajwal Jogi's GitHub Stats</text>
+  
+  <g transform="translate(35, 62)">
+    <!-- Total Stars -->
+    <g transform="translate(0, 0)">
+      <path d="M8 1.5l2.4 5 5.5.8-4 3.9 1 5.5-4.9-2.6-4.9 2.6 1-5.5-4-3.9 5.5-.8z" fill="#7aa2f7"/>
+      <text x="28" y="14" fill="#c0caf5" font-family="system-ui, sans-serif" font-size="13.5" font-weight="500">Total Stars Earned:</text>
+      <text x="360" y="14" fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" text-anchor="end">18</text>
+    </g>
+    <!-- Total Commits -->
+    <g transform="translate(0, 26)">
+      <circle cx="8" cy="8" r="5" stroke="#7aa2f7" stroke-width="2"/>
+      <text x="28" y="14" fill="#c0caf5" font-family="system-ui, sans-serif" font-size="13.5" font-weight="500">Total Commits (2024-2026):</text>
+      <text x="360" y="14" fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" text-anchor="end">742</text>
+    </g>
+    <!-- Total PRs -->
+    <g transform="translate(0, 52)">
+      <path d="M4 3a2 2 0 100 4 2 2 0 000-4zm8 8a2 2 0 100 4 2 2 0 000-4zM4 7v4a2 2 0 002 2h4" stroke="#7aa2f7" stroke-width="1.8" fill="none"/>
+      <text x="28" y="14" fill="#c0caf5" font-family="system-ui, sans-serif" font-size="13.5" font-weight="500">Total PRs Merged:</text>
+      <text x="360" y="14" fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" text-anchor="end">47</text>
+    </g>
+    <!-- Contributed To -->
+    <g transform="translate(0, 78)">
+      <path d="M3 3h10v10H3z" stroke="#7aa2f7" stroke-width="1.8" fill="none"/>
+      <text x="28" y="14" fill="#c0caf5" font-family="system-ui, sans-serif" font-size="13.5" font-weight="500">Repositories Contributed To:</text>
+      <text x="360" y="14" fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" text-anchor="end">31</text>
+    </g>
+  </g>
+
+  <!-- Grade Badge -->
+  <g transform="translate(425, 110)">
+    <circle cx="0" cy="0" r="32" stroke="#7aa2f7" stroke-width="3" fill="#24283b"/>
+    <text x="0" y="8" fill="#7dcfff" font-family="'Space Grotesk', sans-serif" font-size="22" font-weight="800" text-anchor="middle">A+</text>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+# .github/workflows/waka-readme.yml
+name: WakaTime Engineering Telemetry
+
+on:
+  schedule:
+    - cron: "30 18 * * *" # 00:00 IST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime SVG Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_UPDATED_DATE: "True"
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#7aa2f7"
+          BAR_TRACK_COLOR: "#24283b"
+          BAR_RADIUS: "4"
+          TEXT_PRIMARY_COLOR: "#c0caf5"
+          TEXT_SECONDARY_COLOR: "#9aa5ce"

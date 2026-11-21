@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" role="img" aria-label="Most Used Languages">
+  <rect width="495" height="195" rx="8" fill="#eff1f5"/>
+  <text x="35" y="38" fill="#2959aa" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="700">Top Languages</text>
+  
+  <g transform="translate(35, 55)">
+    <mask id="bar-mask-light">
+      <rect width="425" height="8" rx="4" fill="#ffffff"/>
+    </mask>
+    <g mask="url(#bar-mask-light)">
+      <rect x="0" y="0" width="140" height="8" fill="#b07219"/>
+      <rect x="140" y="0" width="105" height="8" fill="#3572A5"/>
+      <rect x="245" y="0" width="75" height="8" fill="#f34b7d"/>
+      <rect x="320" y="0" width="55" height="8" fill="#d4b106"/>
+      <rect x="375" y="0" width="30" height="8" fill="#198CE7"/>
+      <rect x="405" y="0" width="20" height="8" fill="#52a326"/>
+    </g>
+  </g>
+
+  <g transform="translate(35, 88)">
+    <g transform="translate(0, 0)">
+      <circle cx="5" cy="5" r="5" fill="#b07219"/>
+      <text x="16" y="9" fill="#343b58" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Java: 33.0%</text>
+    </g>
+    <g transform="translate(0, 24)">
+      <circle cx="5" cy="5" r="5" fill="#3572A5"/>
+      <text x="16" y="9" fill="#343b58" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Python: 24.8%</text>
+    </g>
+    <g transform="translate(0, 48)">
+      <circle cx="5" cy="5" r="5" fill="#f34b7d"/>
+      <text x="16" y="9" fill="#343b58" font-family="system-ui, sans-serif" font-size="12" font-weight="600">C++ / C: 17.6%</text>
+    </g>
+
+    <g transform="translate(180, 0)">
+      <circle cx="5" cy="5" r="5" fill="#d4b106"/>
+      <text x="16" y="9" fill="#343b58" font-family="system-ui, sans-serif" font-size="12" font-weight="600">JavaScript: 12.5%</text>
+    </g>
+    <g transform="translate(180, 24)">
+      <circle cx="5" cy="5" r="5" fill="#198CE7"/>
+      <text x="16" y="9" fill="#343b58" font-family="system-ui, sans-serif" font-size="12" font-weight="600">R Language: 7.2%</text>
+    </g>
+    <g transform="translate(180, 48)">
+      <circle cx="5" cy="5" r="5" fill="#52a326"/>
+      <text x="16" y="9" fill="#343b58" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Shell / POSIX: 4.9%</text>
+    </g>
+  </g>
+</svg>

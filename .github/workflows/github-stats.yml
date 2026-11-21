@@ -1,0 +1,59 @@
+# .github/workflows/github-stats.yml
+name: Generate GitHub Stats SVGs
+
+on:
+  schedule:
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render Stats Card (Dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: assets/generated/stats-dark.svg
+          options: username=prajwal918&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&include_all_commits=true&count_private=true
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: false
+
+      - name: Render Stats Card (Light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: assets/generated/stats-light.svg
+          options: username=prajwal918&show_icons=true&theme=default&hide_border=true&bg_color=eff1f5&title_color=2959aa&text_color=343b58&icon_color=2959aa&include_all_commits=true&count_private=true
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: false
+
+      - name: Render Top Languages Card (Dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: assets/generated/langs-dark.svg
+          options: username=prajwal918&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b26
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: false
+
+      - name: Render Top Languages Card (Light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: assets/generated/langs-light.svg
+          options: username=prajwal918&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=eff1f5&title_color=2959aa&text_color=343b58
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: false
+
+      - name: Commit generated stats SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated/
+          git diff --staged --quiet || (git commit -m "chore(stats): update generated stats SVGs" && git push)

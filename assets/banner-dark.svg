@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10111a"/>
+      <stop offset="50%" stop-color="#161622"/>
+      <stop offset="100%" stop-color="#1a1b26"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFE58F"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA820A"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7dcfff"/>
+      <stop offset="50%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#24283b" stroke-width="0.8" opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="340" rx="16" fill="url(#bgGrad)"/>
+  <rect width="1200" height="340" rx="16" fill="url(#grid)"/>
+
+  <!-- Border -->
+  <rect x="1.5" y="1.5" width="1197" height="337" rx="15" fill="none" stroke="#292e42" stroke-width="1.5"/>
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="1200" height="4" fill="url(#blueGrad)"/>
+
+  <!-- Terminal Header Dots -->
+  <g transform="translate(48, 42)">
+    <circle cx="0" cy="0" r="6" fill="#f7768e"/>
+    <circle cx="20" cy="0" r="6" fill="#e0af68"/>
+    <circle cx="40" cy="0" r="6" fill="#9ece6a"/>
+    <text x="65" y="4" fill="#565f89" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" font-weight="600">prajwal918 / flagship-profile-v2</text>
+  </g>
+
+  <!-- Title Badge -->
+  <g transform="translate(48, 88)">
+    <rect width="210" height="26" rx="6" fill="#24283b" stroke="#3b4261" stroke-width="1"/>
+    <text x="12" y="17" fill="url(#goldGrad)" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="1.5">NMAMIT CSE • B.TECH</text>
+  </g>
+
+  <!-- Main Headline -->
+  <text x="48" y="172" fill="#c0caf5" font-family="'Space Grotesk', system-ui, -apple-system, sans-serif" font-size="48" font-weight="800" letter-spacing="-1">Prajwal Jogi</text>
+
+  <!-- Subtitle -->
+  <text x="48" y="214" fill="#7aa2f7" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="20" font-weight="600">Systems &amp; Full-Stack Engineering • Distributed Microservices</text>
+
+  <!-- Description / Core Vectors -->
+  <text x="48" y="254" fill="#9aa5ce" font-family="system-ui, -apple-system, sans-serif" font-size="14.5" font-weight="400">
+    Java 21 • Spring Boot 3.5 • C++20 POSIX • Linux AF_PACKET • R Statistical NLP • Web Audio DSP 60fps
+  </text>
+
+  <!-- Status Chip -->
+  <g transform="translate(48, 282)">
+    <circle cx="6" cy="6" r="4.5" fill="#00FF66"/>
+    <text x="20" y="10" fill="#a9b1d6" font-family="'JetBrains Mono', monospace" font-size="12">ENGINEERING CODES: OVO-VISUALIZER • DURDEN-CINEMA • PULSELEDGER</text>
+  </g>
+
+  <!-- Right Decorative Vinyl Silhouette -->
+  <g transform="translate(1030, 170)" opacity="0.85">
+    <!-- Vinyl Outer -->
+    <circle cx="0" cy="0" r="115" fill="#111114" stroke="#D4AF37" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="95" fill="none" stroke="#24283b" stroke-width="0.8"/>
+    <circle cx="0" cy="0" r="75" fill="none" stroke="#1f2335" stroke-width="0.8"/>
+    <circle cx="0" cy="0" r="55" fill="none" stroke="#24283b" stroke-width="0.8"/>
+    <!-- Gold Label -->
+    <circle cx="0" cy="0" r="38" fill="url(#goldGrad)"/>
+    <circle cx="0" cy="0" r="8" fill="#111114"/>
+    <text x="0" y="3" fill="#111114" font-family="'JetBrains Mono', monospace" font-size="7" font-weight="800" text-anchor="middle">OVO SOUND</text>
+  </g>
+</svg>
