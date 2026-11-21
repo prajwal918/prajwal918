@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="172" viewBox="0 0 800 172" role="img" aria-label="Daily Competitive Programming and Systems Digest">
+  <rect width="800" height="172" rx="12" fill="#eff1f5" stroke="#dce0e8" stroke-width="1"/>
+  <rect x="16" y="16" width="376" height="82" rx="8" fill="#e6e9ef"/>
+  <rect x="408" y="16" width="376" height="82" rx="8" fill="#e6e9ef"/>
+  <rect x="16" y="110" width="768" height="46" rx="8" fill="#e6e9ef"/>
+  
+  <!-- LeetCode Panel -->
+  <text x="32" y="42" fill="#2959aa" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="700">LEETCODE GRAPHQL TELEMETRY</text>
+  <text x="32" y="68" fill="#343b58" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="600">Active Solver @prajwal918 · Grind In Progress</text>
+  <circle cx="36" cy="84" r="4" fill="#385f0d"/><text x="44" y="87" fill="#5c5f77" font-family="system-ui,-apple-system,sans-serif" font-size="11">Easy</text>
+  <circle cx="84" cy="84" r="4" fill="#8f5e15"/><text x="92" y="87" fill="#5c5f77" font-family="system-ui,-apple-system,sans-serif" font-size="11">Med</text>
+  <circle cx="130" cy="84" r="4" fill="#8c4351"/><text x="138" y="87" fill="#5c5f77" font-family="system-ui,-apple-system,sans-serif" font-size="11">Hard</text>
+  
+  <!-- Codeforces Panel -->
+  <text x="424" y="42" fill="#2959aa" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="700">CODEFORCES PUBLIC API</text>
+  <text x="424" y="68" fill="#343b58" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="600">Handle @prajwal918 · Div 2 / Div 3 Cadet</text>
+  <text x="424" y="88" fill="#5c5f77" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">Synced 2026-11-21 UTC</text>
+  
+  <!-- Daily CS Tip -->
+  <text x="32" y="138" fill="#2959aa" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">[SPRING]</text>
+  <text x="140" y="138" fill="#343b58" font-family="system-ui,-apple-system,sans-serif" font-size="12.5">Set spring.jpa.open-in-view=false to avoid holding DB pools during JSON writes.</text>
+</svg>
