@@ -14,9 +14,9 @@
   <!-- Codeforces Panel -->
   <text x="424" y="42" fill="#7aa2f7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="700">CODEFORCES PUBLIC API</text>
   <text x="424" y="68" fill="#c0caf5" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="600">Handle @prajwal918 · Div 2 / Div 3 Cadet</text>
-  <text x="424" y="88" fill="#9aa5ce" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">Synced 2026-11-26 UTC</text>
+  <text x="424" y="88" fill="#9aa5ce" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">Synced 2026-11-27 UTC</text>
   
   <!-- Daily CS Tip -->
-  <text x="32" y="138" fill="#7aa2f7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">[POSIX]</text>
-  <text x="140" y="138" fill="#c0caf5" font-family="system-ui,-apple-system,sans-serif" font-size="12.5">Restore struct termios via RAII + SIGINT handlers to prevent orphaned raw TTYs.</text>
+  <text x="32" y="138" fill="#7aa2f7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">[DAA]</text>
+  <text x="140" y="138" fill="#c0caf5" font-family="system-ui,-apple-system,sans-serif" font-size="12.5">Dijkstra breaks on negative edges due to greedy settling; switch to Bellman-Ford.</text>
 </svg>
